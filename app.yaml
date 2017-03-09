@@ -1,7 +1,7 @@
 application: johnham-ca-test
+version: 1
 runtime: python
-env: flex
-
+api_version: 1
 
 handlers:
 - url: /(.*\.(gif|png|jpg|ico|js|css))
